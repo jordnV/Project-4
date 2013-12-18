@@ -1,0 +1,71 @@
+html
+{
+    color: black;
+    border-style:solid;
+    border-width:1px;
+}
+
+body
+{
+    background-color: #ffffcc;
+    padding:65px;
+    border: 40px;
+    border-color:black;
+    
+}
+
+#compose
+{
+    background-color: blue;
+    width:100px;
+    border-width: 2px;
+    border-style:solid;
+    border-color: black;
+    text-align:center;
+    position:relative;
+    left:1px;
+    top:1px;
+    color:white;
+    
+}
+#otherUsers
+{
+    background-color: blue;
+    width:100px;
+    border-width: 2px;
+    border-style:solid;
+    border-color: black;
+    text-align:center;
+    position:relative;
+    left:1px;
+    top:10px;
+    color:white;
+    
+}
+
+.ten
+{
+    position:relative;
+    left:200px;
+    top:20px;
+    background-color: white;
+    width:500px;
+    border-width: 2px;
+    border-style:solid;
+    border-color: black;
+}
+
+
+#logout
+{
+    position:relative;
+    left:1px;
+    top:30px;
+}
+
+#cookie
+{
+   position:relative;
+   left:160px;
+   top:10px; 
+}
